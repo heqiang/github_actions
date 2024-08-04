@@ -20,4 +20,4 @@ jobs:
       run: python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Run Main Script
-      run: ython main.py
+      run: python main.py
